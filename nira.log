@@ -1,0 +1,32 @@
+2022-05-18 21:41:13,527$client.py$559$login$INFO:logging in using static token
+2022-05-18 21:41:14,351$gateway.py$406$identify$INFO:Shard ID None has sent the IDENTIFY payload.
+2022-05-18 21:41:14,594$gateway.py$497$received_message$INFO:Shard ID None has connected to Gateway: ["gateway-prd-main-n6xg",{"micros":72042,"calls":["discord-sessions-blue-prd-2-27",{"micros":71157,"calls":["start_session",{"micros":44678,"calls":["discord-api-7c647b6d46-h86pp",{"micros":39780,"calls":["get_user",{"micros":7262},"add_authorized_ip",{"micros":4399},"get_guilds",{"micros":6168},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: d9f57bf2d5bb2d0fbeaf0cd87982874b).
+2022-05-18 21:41:15,325$state.py$773$register_application_command$INFO:nextcord.ConnectionState: Registering command with signature ('status', 1, None)
+2022-05-18 21:41:25,086$client.py$1820$process_application_commands$INFO:nextcord.Client: Found an interaction command.
+2022-05-18 21:41:25,087$client.py$1822$process_application_commands$INFO:nextcord.Client: Calling your application command now status
+2022-05-18 21:42:58,657$client.py$751$run$INFO:Cleaning up tasks.
+2022-05-18 21:42:58,658$client.py$116$_cancel_tasks$INFO:Cleaning up after 1 tasks.
+2022-05-18 21:42:58,835$client.py$121$_cancel_tasks$INFO:All tasks finished cancelling.
+2022-05-18 21:42:58,836$client.py$138$_cleanup_loop$INFO:Closing the event loop.
+2022-05-18 21:43:02,095$client.py$559$login$INFO:logging in using static token
+2022-05-18 21:43:02,680$gateway.py$406$identify$INFO:Shard ID None has sent the IDENTIFY payload.
+2022-05-18 21:43:02,904$gateway.py$497$received_message$INFO:Shard ID None has connected to Gateway: ["gateway-prd-main-rnpl",{"micros":56014,"calls":["discord-sessions-blue-prd-2-58",{"micros":54384,"calls":["start_session",{"micros":53013,"calls":["discord-api-7c647b6d46-57j8d",{"micros":47448,"calls":["get_user",{"micros":9217},"add_authorized_ip",{"micros":1534},"get_guilds",{"micros":8161},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":795,"calls":[]}]}]}] (Session ID: 5e25e1eb57970239b0baa6fdf8ef6545).
+2022-05-18 21:43:03,120$state.py$631$deploy_application_commands$INFO:nextcord.ConnectionState: Command with signature ('status', 1, None) found but failed deep check, updating.
+2022-05-18 21:43:03,120$state.py$773$register_application_command$INFO:nextcord.ConnectionState: Registering command with signature ('status', 1, None)
+2022-05-18 21:43:13,442$client.py$1820$process_application_commands$INFO:nextcord.Client: Found an interaction command.
+2022-05-18 21:43:13,443$client.py$1822$process_application_commands$INFO:nextcord.Client: Calling your application command now status
+2022-05-18 21:44:26,436$client.py$751$run$INFO:Cleaning up tasks.
+2022-05-18 21:44:26,436$client.py$116$_cancel_tasks$INFO:Cleaning up after 1 tasks.
+2022-05-18 21:44:26,607$client.py$121$_cancel_tasks$INFO:All tasks finished cancelling.
+2022-05-18 21:44:26,608$client.py$138$_cleanup_loop$INFO:Closing the event loop.
+2022-05-18 21:44:29,806$client.py$559$login$INFO:logging in using static token
+2022-05-18 21:44:30,687$gateway.py$406$identify$INFO:Shard ID None has sent the IDENTIFY payload.
+2022-05-18 21:44:30,973$gateway.py$497$received_message$INFO:Shard ID None has connected to Gateway: ["gateway-prd-main-vh2r",{"micros":109092,"calls":["discord-sessions-blue-prd-2-143",{"micros":107170,"calls":["start_session",{"micros":92402,"calls":["discord-api-7c647b6d46-2dzr8",{"micros":84132,"calls":["get_user",{"micros":14011},"add_authorized_ip",{"micros":4950},"get_guilds",{"micros":9156},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":4003,"calls":[]}]}]}] (Session ID: 2774a78c0ecb8572c7363598b8ddbd86).
+2022-05-18 21:44:31,217$state.py$631$deploy_application_commands$INFO:nextcord.ConnectionState: Command with signature ('status', 1, None) found but failed deep check, updating.
+2022-05-18 21:44:31,217$state.py$773$register_application_command$INFO:nextcord.ConnectionState: Registering command with signature ('status', 1, None)
+2022-05-18 21:44:40,104$client.py$1820$process_application_commands$INFO:nextcord.Client: Found an interaction command.
+2022-05-18 21:44:40,105$client.py$1822$process_application_commands$INFO:nextcord.Client: Calling your application command now status
+2022-05-18 21:47:56,086$client.py$751$run$INFO:Cleaning up tasks.
+2022-05-18 21:47:56,087$client.py$116$_cancel_tasks$INFO:Cleaning up after 2 tasks.
+2022-05-18 21:47:56,265$client.py$121$_cancel_tasks$INFO:All tasks finished cancelling.
+2022-05-18 21:47:56,266$client.py$138$_cleanup_loop$INFO:Closing the event loop.
